@@ -7,7 +7,7 @@ Data Analyst
 Data Analyst, believer that valuable information comes from data.
 
 * 🌍  I'm based in Dublin,Ireland .
-* ✉️  You can contact me at [Email](mailto:Eduardoandres.lobos@gmail.com)
+* ✉️  You can contact me at [Email](mailto:Eduardoandres.loboss@gmail.com)
 * 🧠  I'm learning always about Power BI - Tableau - Sql 
 * 🤝  I'm open to collaborating on Data Analyst projects.
 * 📊  [Tableau Public](https://public.tableau.com/app/profile/eduardo1952)
